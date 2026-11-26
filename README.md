@@ -1,6 +1,6 @@
 # DevBozor — Freelance & Code Marketplace
 
-**Live Website:** https://netlify.app
+**Live Website:** https://devbozor.netlify.app
 
 DevBozor is a multilingual (English, Russian, Uzbek) freelance and ready-made code marketplace built to connect clients with developers for Telegram bots, websites, and mobile apps.
 
