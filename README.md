@@ -1,11 +1,16 @@
-# DevBozor — Freelance & Code Marketplace
+# DevBozor — Full-Stack Freelance & Code Marketplace
 
-**Live Website:** https://devbozor.netlify.app
+**Live Platform:** https://netlify.app
 
-DevBozor is a multilingual (English, Russian, Uzbek) freelance and ready-made code marketplace built to connect clients with developers for Telegram bots, websites, and mobile apps.
+DevBozor is a full-stack, multilingual (English, Russian, Uzbek) freelance and ready-made software marketplace designed to connect clients, developers, and startup investors.
 
-### Key Highlights:
+### Core Features & Architecture:
+- **Full-Stack Backend (Supabase):** Real-time database, user authentication, profile management, and secure data storage.
+- **Marketplace & Orders:** Post custom development jobs, submit proposals, or list ready-made apps/websites for sale or investment.
+- **Built-in Messaging & Ratings:** Direct real-time chat between clients and developers, user verification system, and review ratings.
+- **Admin Dashboard & Security:** Custom admin panel for content moderation and privacy policy compliance.
+- **UI/UX:** Responsive mobile-first design with Dark/Light mode and Uzbek cultural design elements.
+
+### Story & Traction:
 - Built from scratch at age 15 (9th grade) using a smartphone without a PC.
-- Reached initial real user traction, including its first $100 mobile app listing within days of launch.
-- Supports UZ, RU, and EN interfaces with dark/light mode.
-- 
+- Acquired real users and its first $100 commercial web app listing ("VAT Taksi") shortly after launch.
