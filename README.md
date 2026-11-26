@@ -1,6 +1,6 @@
 # DevBozor — Full-Stack Freelance & Code Marketplace
 
-**Live Platform:** https://netlify.app
+**Live Platform:** https://devbozor.netlify.app
 
 DevBozor is a full-stack, multilingual (English, Russian, Uzbek) freelance and ready-made software marketplace designed to connect clients, developers, and startup investors.
 
